@@ -1,0 +1,6 @@
+19:28:32.727 [main] DEBUG packageA.Demo1 - I am Debug
+19:28:32.735 [main] ERROR packageA.Demo1 - I am hello
+19:28:32.736 [main] FATAL packageA.Demo1 - I am Fatal
+19:28:32.736 [main] INFO  packageA.Demo1 - I am info
+19:28:39.676 [main] ERROR PackageB.Demo2 - I am Error2
+19:28:39.684 [main] FATAL PackageB.Demo2 - I am Fatal2
